@@ -1,0 +1,12 @@
+body{
+    background-color: darkcyan;
+    color: gainsboro;
+}
+.borders{
+            
+    border: 2px solid black;
+    outline: lightblue solid 10px;
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+}
